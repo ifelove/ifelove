@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**ifelove/ifelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/thecoducer/python_programs/master/Imag    es/python-harry-potter.jpg)
 
-Here are some ideas to get you started:
+👋 Hi, I’m Aweda Ifeoluwa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👀 I’m interested in Building and maintaing web apps, data analysis and unsupervised learning with ML
+🌱 I’m currently learning Python,
+💞️ I’m looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
+
+
+🔭 I’m currently working on Projects with React.js and Node.js
+
+💬 You can ask me about Full-Stack
+
+📫 How to reach me at awedaifeoluwa@yaoo.com
+
+🔭 I'm a member of ALX
+
+
