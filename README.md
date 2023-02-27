@@ -1,6 +1,18 @@
 
 <h1 align="center">Hi, I'm Aweda Ifeoluwa</h1>
 
+<!-- Updating my readme for GitHub-->
+
+
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Solving+Problems+in+a+Creative+ways;Doing+Hard+Things!!;&center=true"></a>
+
+</p>
+
+
 👀 I’m interested in Building and maintaing web apps, data analysis and unsupervised learning with ML
 🌱 I’m currently learning Python,
 💞️ I’m looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
@@ -16,16 +28,6 @@
 
 
 
-<!-- Updating my readme for GitHub-->
-
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<h2 align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Solving+Problems+in+a+Creative+ways;Doing+Hard+Things!!;&center=true"></a>
-
-</h2>
 
 
 
