@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm Aweda Ifeoluwa</h1>
+<h1 align="center">Hi, I'm Aweda Ifeoluwa</h1>
 
 👀 I’m interested in Building and maintaing web apps, data analysis and unsupervised learning with ML
 🌱 I’m currently learning Python,
@@ -21,11 +21,11 @@
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<h2 align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Solving+Problems+in+a+Creative+ways;Doing+Hard+Things!!;&center=true"></a>
 
-</p>
+</h2>
 
 
 
