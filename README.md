@@ -27,7 +27,7 @@
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mitul3737.mitul3737)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ifeflove.ifelove&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=ifelove.ifelove&left_color=green&right_color=red)
 <br />
 
 <!--For adding Gif
