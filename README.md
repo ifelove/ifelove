@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" height="210" src="https://github.com/ifelove/ifelove/blob/main/ife_code.gif">
+<img align="center" alt="Coding" width="600" height="210" src="https://github.com/ifelove/ifelove/blob/main/ife_code.gif">
 
 <h1 align="center">Hi <img src="https://github.com/ifelove/ifelove/blob/main/Wave.gif" height="55px" width="55px">, I'm Aweda Ifeoluwa</h1>
 
