@@ -9,7 +9,7 @@
 
 </p>
 
-👀 I’m interested in Building and maintaing web apps, data analysis and unsupervised learning with ML
+👀 I’m interested in Building and maintaing web apps and Remote System Management works
 🌱 I’m currently learning Python,
 💞️ I’m looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
 
@@ -27,6 +27,7 @@
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mitul3737.mitul3737)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ifeflove.ifelove&left_color=green&right_color=red)
 <br />
 
 <!--For adding Gif
