@@ -1,6 +1,3 @@
-
-![](https://raw.githubusercontent.com/thecoducer/python_programs/master/Imag    es/python-harry-potter.jpg)
-
 👋 Hi, I’m Aweda Ifeoluwa
 
 
