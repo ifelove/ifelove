@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="900" height="210" src="">
+
 <h1 align="center">Hi <img src="https://github.com/ifelove/ifelove/blob/main/Wave.gif" height="55px" width="55px">, I'm Aweda Ifeoluwa</h1>
 
 <!-- Updating my readme for GitHub-->
@@ -59,5 +61,3 @@
 ### Coding Stats
 
 <!--..-->
-
-[Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)
