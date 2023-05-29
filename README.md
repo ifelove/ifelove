@@ -47,7 +47,6 @@
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/ifelove/ifelove"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ifelove&theme=highcontrast"/></a>
-    <a href="https://github.com/ifelove/ifelove"><img alt="Ife's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ifelove&show_icons=true&theme=merko" width=55%/></a>
     <a href="https://github.com/mitul3737/mitul3737"><img alt="Ife's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifelove&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   
 </details>
