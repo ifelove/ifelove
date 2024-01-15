@@ -22,7 +22,7 @@
 
 💬 You can ask me about Full-Stack
 
-📫 How to reach me at awedaifeoluwa@yaoo.com
+📫 How to reach me at awedaifeoluwa@yahoo.com
 
 🔭 I'm a member of ALX
 
