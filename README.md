@@ -7,7 +7,7 @@
 
 <p align="center">
 
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Solving+Problems+in+a+Creative+ways;Doing+Hard+Things!!;&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Solving+Problems;Doing+Hard+Things!!;&center=true"></a>
 
 
 </p>
